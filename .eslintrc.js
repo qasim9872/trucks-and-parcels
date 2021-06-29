@@ -15,6 +15,8 @@ module.exports = {
     'no-param-reassign': 0,
     'no-return-assign': 0,
     'no-console': 0,
+    'implicit-arrow-linebreak': 0,
+    'function-paren-newline': 0,
     camelcase: 0
   }
 };
